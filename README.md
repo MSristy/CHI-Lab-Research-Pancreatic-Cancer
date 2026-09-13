@@ -303,7 +303,7 @@ The Google Document can be used as the central coordination document for:
 
 | Resource | Link |
 |:---|:---|
-| **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1rTtiWf9xfWHFTRGeY3-fDW7NQukfwFzB/edit?usp=drive_link&ouid=112710717411867987316&rtpof=true&sd=true) |
+| **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1bc9-B7rEsXqSk5xmW-SJpFm8GYLqN-8LLq2sdW6-zBA/edit?usp=sharing)|
 | **Research Proposals / Project Calls** | Add official link |
 
 | Resource | Link |
