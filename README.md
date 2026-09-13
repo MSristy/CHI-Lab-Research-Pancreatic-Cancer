@@ -254,18 +254,6 @@ MICCAI 2025, [**Best Paper Award**](https://miccai.org/index.php/about-miccai/aw
 *Johns Hopkins University, Stanford University, University of Zurich, University of Warsaw, Italian Institute of Technology, UCSF* <br/>
 Preprint <br/>
 <a href='https://www.cs.jhu.edu/~zongwei/publication/bassi2025scaling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a>
-## Awards
-
-<p align="center">
-  <img src="documents/miccai_2025_best_paper_award.png" width="400"/>
-</p> 
-
-- RSNA 2025 Certificate of Merit Award
-- ${\color{red} {\textbf{MICCAI 2025 Best Paper Award (Runner-up)}}}$ <br/>
-
-
-
-
 ---
 
 # CHI Lab Google Colab
