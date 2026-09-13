@@ -305,8 +305,12 @@ The Google Document can be used as the central coordination document for:
 | **Literature Repository** | This repository |
 | **ECR Network** |  [Future Leaders Network](https://icriste.com/future-leaders/)  |
 | **ICRI-STE Insights** | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@ICRI-STEInsights)|
-| **ICRI-STE Whatapp Channel** | [ICRI-STE Insights](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)   
-| **Research Proposals / Project Calls/ Book Chapters** | Add official link |
+| **ICRI-STE Whatapp Channel** | [ICRI-STE Insights](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)
+| **Research Proposals / Project Calls** | Add official link |
+
+| CHI Lab Book: Computational Healthcare Intelligence: New and Emerging Trends (An Interdisciplinary Research Book) | Contents |
+|:---|:---|
+| **Book Chapters** | Add official link |
 
 
 ---
