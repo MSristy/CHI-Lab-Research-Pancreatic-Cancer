@@ -301,7 +301,8 @@ The Google Document can be used as the central coordination document for:
 | **CHI Lab / ICRI-STE Website** | [icriste.com](https://icriste.com) |
 | **CHI Lab GitHub Organisation / Repository** | Add official GitHub link |
 | **CHI Lab Google Colab** | Add official Colab link |
-| **CHI Lab Google Document** | Add official Google Docs link |
+| **CHI Lab Google Document** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-Help%20Desk%20in%20R%26D-blue?style=for-the-badge)](https://docs.google.com/document/d/10ijo9jq8jDHfeKm0g2J2bKDr94_N3Q633KCtohv06o8/edit?usp=sharing) |
+| **CHI Lab Google Document** | [Help Disk in R&D](https://docs.google.com/document/d/10ijo9jq8jDHfeKm0g2J2bKDr94_N3Q633KCtohv06o8/edit?usp=sharing) |
 | **Literature Repository** | This repository |
 | **ECR Network** | [![Future Leaders Network](https://img.shields.io/badge/Future%20Leaders-Network-blue?style=for-the-badge)](https://icriste.com/future-leaders/) |
 | **ECR Network** |  [Future Leaders Network](https://icriste.com/future-leaders/)  |
