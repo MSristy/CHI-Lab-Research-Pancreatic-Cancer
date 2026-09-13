@@ -280,9 +280,7 @@ The Google Document can be used as the central coordination document for:
 
 ### CHI Lab Google Document
 
-**[Open CHI Lab Research Google Document →](YOUR_CHI_LAB_GOOGLE_DOC_LINK)**
-
-> Replace `YOUR_CHI_LAB_GOOGLE_DOC_LINK` with the official CHI Lab Google Docs link.
+[![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1L296KH9r9x4m_ycsgwbsrY1YGLbRYoO2iBHorOfB4-k/edit?usp=sharing)
 
 ---
 
