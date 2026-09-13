@@ -308,9 +308,9 @@ The Google Document can be used as the central coordination document for:
 | **ICRI-STE Whatapp Channel** | [ICRI-STE Insights](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)
 | **Research Proposals / Project Calls** | Add official link |
 
-| CHI Lab Book: Computational Healthcare Intelligence: New and Emerging Trends (An Interdisciplinary Research Book) | Contents |
+| CHI Lab Book | Relevant Content Aligned with the Lab’s Research Directions|
 |:---|:---|
-| **Book Chapters** | Add official link |
+| **Computational Healthcare Intelligence: New and Emerging Trends** | [An Interdisciplinary Research Book](https://drive.google.com/file/d/1CMvKFfF3ZH3nyiuUHm3I0eJvCwnwC2iT/view?usp=drive_link) |
 
 
 ---
