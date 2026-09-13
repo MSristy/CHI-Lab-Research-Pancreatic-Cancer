@@ -238,6 +238,32 @@ A good research repository should allow another researcher to understand:
 | [Prof. Dr. Zongwei Zhou](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1912.05074)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2102.04306)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2203.00131)   |[GitHub](https://github.com/MrGiovanni/PanTS.git)| | | | | | |
 |-| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/html/2604.20981v1)| | | | | | | |
 
+## More motivation Papers, Poster, and Presentation 
+
+<b>Learning Segmentation from Radiology Reports</b> <br/>
+[Pedro R. A. S. Bassi](https://scholar.google.com/citations?user=NftgL6gAAAAJ&hl=en), [Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ), [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN), Zheren Zhu, Tianyu Lin, [Sergio Decherchi](https://scholar.google.com/citations?user=T09qQ1IAAAAJ&hl=it), [Andrea Cavalli](https://scholar.google.com/citations?user=4xTOvaMAAAAJ&hl=en), [Kang Wang](https://radiology.ucsf.edu/people/kang-wang), [Yang Yang](https://scholar.google.com/citations?hl=en&user=6XsJUBIAAAAJ), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Zongwei Zhou](https://www.zongweiz.com/)* <br/>
+*Johns Hopkins University* <br/>
+MICCAI 2025, [**Best Paper Award**](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/) (runner-up) <br/>
+<a href='https://www.cs.jhu.edu/~zongwei/publication/bassi2025learning.pdf'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a> <a href='https://www.cs.jhu.edu/~zongwei/poster/bassi2025miccai_rsuper.pdf'><img src='https://img.shields.io/badge/Poster-PDF-blue'></a>
+<a href='https://www.cs.jhu.edu/news/for-ai-tumor-detection-a-picture-isnt-always-worth-a-thousand-words/'><img src='https://img.shields.io/badge/JHU-News-green'></a>
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/7pamG9DDSJw?si=-376z03g832UyTKB)
+<a href='https://youtu.be/r11X39fH-yU?si=ZOBlHMo1CvN9aVzb'><img src='https://img.shields.io/badge/Oral-RSNA-orange'></a>
+
+<b>Scaling Artificial Intelligence for Multi-Tumor Early Detection with More Reports, Fewer Masks</b> <br/>
+[Pedro R. A. S. Bassi](https://scholar.google.com/citations?user=NftgL6gAAAAJ&hl=en), Xinze Zhou, [Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ), Szymon Płotka, [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN), Qi Chen, Zheren Zhu, Jakub Prządo, Ibrahim E. Hamacı, Sezgin Er, Yuhan Wang, Ashwin Kumar, Bjoern Menze, Jarosław B. Ćwikła, Yuyin Zhou, Akshay S. Chaudhari, Curtis P. Langlotz, [Sergio Decherchi](https://scholar.google.com/citations?user=T09qQ1IAAAAJ&hl=it), [Andrea Cavalli](https://scholar.google.com/citations?user=4xTOvaMAAAAJ&hl=en), [Kang Wang](https://radiology.ucsf.edu/people/kang-wang), [Yang Yang](https://scholar.google.com/citations?hl=en&user=6XsJUBIAAAAJ), [Alan L. Yuille](https://www.cs.jhu.edu/~ayuille/), [Zongwei Zhou](https://www.zongweiz.com/)* <br/>
+*Johns Hopkins University, Stanford University, University of Zurich, University of Warsaw, Italian Institute of Technology, UCSF* <br/>
+Preprint <br/>
+<a href='https://www.cs.jhu.edu/~zongwei/publication/bassi2025scaling.pdf'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a>
+## Awards
+
+<p align="center">
+  <img src="documents/miccai_2025_best_paper_award.png" width="400"/>
+</p> 
+
+- RSNA 2025 Certificate of Merit Award
+- ${\color{red} {\textbf{MICCAI 2025 Best Paper Award (Runner-up)}}}$ <br/>
+
+
 
 
 ---
