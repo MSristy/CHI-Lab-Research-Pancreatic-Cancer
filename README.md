@@ -298,7 +298,7 @@ The Google Document can be used as the central coordination document for:
 
 | Resource | Link |
 |:---|:---|
-| **CHI Lab / ICRI-STE Website** | [icriste.com](https://icriste.com) |
+| **CHI Lab / ICRI-STE Website** | [![Website](https://img.shields.io/badge/Website-ICRI--STE-00A6A6?style=for-the-badge&logo=googlechrome&logoColor=white)](https://icriste.com) |
 | **ICRI-STE Insights** | [![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights) |
 | **ICRI-STE WhatsApp Channel** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
 | **ECR Network** | [![Future Leaders](https://img.shields.io/badge/Future%20Leaders-ECR%20Network-6C5CE7?style=for-the-badge)](https://icriste.com/future-leaders/) |
