@@ -303,10 +303,10 @@ The Google Document can be used as the central coordination document for:
 | **CHI Lab Google Colab** | Add official Colab link |
 | **CHI Lab Google Document** | Add official Google Docs link |
 | **Literature Repository** | This repository |
+| **ECR Network** | [![Future Leaders Network](https://img.shields.io/badge/Future%20Leaders-Network-blue?style=for-the-badge)](https://icriste.com/future-leaders/) |
 | **ECR Network** |  [Future Leaders Network](https://icriste.com/future-leaders/)  |
 | **ICRI-STE Insights** | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@ICRI-STEInsights)|
 | **ICRI-STE WhatsApp Channel** | [![WhatsApp](https://badges.aleen42.com/src/whatsapp.svg)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
-| **ICRI-STE Whatapp Channel** | [ICRI-STE Insights](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)
 | **Research Proposals / Project Calls** | Add official link |
 
 | CHI Lab Book | Relevant Content Aligned with the Lab’s Research Directions|
