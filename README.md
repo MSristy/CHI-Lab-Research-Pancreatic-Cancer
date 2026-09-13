@@ -303,16 +303,18 @@ The Google Document can be used as the central coordination document for:
 | **ICRI-STE Insights** | [![YouTube](https://img.shields.io/badge/YouTube-ICRI--STE%20Insights-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@ICRI-STEInsights) |
 | **ICRI-STE WhatsApp Channel** | [![WhatsApp](https://img.shields.io/badge/WhatsApp-ICRI--STE%20Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
 | **CHI Lab Google Document** | [![Google Docs](https://img.shields.io/badge/Google%20Docs-Help%20Desk%20in%20R%26D-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/10ijo9jq8jDHfeKm0g2J2bKDr94_N3Q633KCtohv06o8/edit?usp=sharing) |
+| **Research Proposals / Project Calls** | Add official link |
+
+| Resource | Link |
+|:---|:---|
 | **CHI Lab GitHub Organisation / Repository Non Private for Open Science Members** | | **CHI Lab GitHub Organisation / Repository – Open Science** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGiovanni/R-Super) |
 | **CHI Lab GitHub Organisation / Repository Private-Open Science (Open on Request)** |---|
 | **Literature Repository** |  [![GitHub](https://img.shields.io/github/stars/MrGiovanni/R-Super.svg?style=social)](https://github.com/MrGiovanni/R-Super/stargazers) |
-| **Research Proposals / Project Calls** | Add official link |
+
 
 | CHI Lab Book | Relevant Content Aligned with the Lab’s Research Directions|
 |:---|:---|
 | **Computational Healthcare Intelligence: New and Emerging Trends** | [![Book](https://img.shields.io/badge/Book-An%20Interdisciplinary%20Research%20Book-blue?style=for-the-badge)](https://drive.google.com/file/d/1CMvKFfF3ZH3nyiuUHm3I0eJvCwnwC2iT/view?usp=drive_link) |
-
-
 
 ---
 
