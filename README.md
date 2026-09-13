@@ -310,6 +310,9 @@ The Google Document can be used as the central coordination document for:
 
 | CHI Lab Book | Relevant Content Aligned with the Lab’s Research Directions|
 |:---|:---|
+| **Computational Healthcare Intelligence: New and Emerging Trends** | [![Book](https://img.shields.io/badge/Book-An%20Interdisciplinary%20Research%20Book-blue?style=for-the-badge)](https://drive.google.com/file/d/1CMvKFfF3ZH3nyiuUHm3I0eJvCwnwC2iT/view?usp=drive_link) |
+|:---|:---|
+| **An Interdisciplinary Research Book** | [📖 View / Download Book](https://drive.google.com/file/d/1CMvKFfF3ZH3nyiuUHm3I0eJvCwnwC2iT/view?usp=drive_link) |
 | **Computational Healthcare Intelligence: New and Emerging Trends** | [An Interdisciplinary Research Book](https://drive.google.com/file/d/1CMvKFfF3ZH3nyiuUHm3I0eJvCwnwC2iT/view?usp=drive_link) |
 
 
