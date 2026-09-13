@@ -6,10 +6,6 @@
 
 ### Principal Investigator | Dr. Didar Murad   
 
-### Early Career Researcher (ECR) Mini Projects & Research Repository
-
-**AI • Computational Biology • Biomedical Systems • Medical Imaging • Digital Health • Agentic AI**
-
 [![CHI Lab](https://img.shields.io/badge/CHI%20Lab-Computational%20Healthcare%20Intelligence-0A7EA4.svg)](https://icriste.com/computational-healthcare-intelligence-lab-chi-lab/)
 [![ECR](https://img.shields.io/badge/ECR%20%7C%20BS%20%7C%20MS%20%7C%20PhD-2E7D32.svg)](https://icriste.com/future-leaders/)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrGiovanni/R-Super&left_color=%2363C7E6&right_color=%23CEE75F)
