@@ -278,8 +278,6 @@ The Google Document can be used as the central coordination document for:
 - Project progress
 - Submission requirements
 
-### CHI Lab Google Document
-
 [![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1L296KH9r9x4m_ycsgwbsrY1YGLbRYoO2iBHorOfB4-k/edit?usp=sharing)
 
 ---
