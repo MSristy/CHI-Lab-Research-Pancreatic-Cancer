@@ -317,52 +317,7 @@ The Google Document can be used as the central coordination document for:
 | **Computational Healthcare Intelligence: New and Emerging Trends** | [![Book](https://img.shields.io/badge/Book-An%20Interdisciplinary%20Research%20Book-blue?style=for-the-badge)](https://drive.google.com/file/d/1CMvKFfF3ZH3nyiuUHm3I0eJvCwnwC2iT/view?usp=drive_link) |
 
 ---
-
-# Recommended Repository Organisation
-
-```text
-CHI-Lab-ECR-Mini-Projects/
-│
-├── ECR1-BS/
-│   ├── fundamentals/
-│   ├── python/
-│   ├── data-analysis/
-│   ├── machine-learning/
-│   └── literature/
-│
-├── ECR2-MS/
-│   ├── machine-learning/
-│   ├── deep-learning/
-│   ├── biomedical-modelling/
-│   ├── medical-imaging/
-│   ├── computational-biology/
-│   └── literature/
-│
-├── ECR3-PhD/
-│   ├── advanced-ai/
-│   ├── systems-biology/
-│   ├── multi-omics/
-│   ├── agentic-ai/
-│   ├── digital-twins/
-│   └── research-methodology/
-│
-├── literature/
-│   ├── papers/
-│   ├── paper-notes/
-│   └── reproduction-studies/
-│
-├── datasets/
-│   └── dataset-links.md
-│
-├── resources/
-│   ├── tutorials/
-│   ├── guidelines/
-│   └── references/
-│
-└── README.md
-```
-
----
+-
 
 # ECR Research Workflow
 
@@ -394,8 +349,6 @@ CHI Lab encourages ECRs to progress from **guided learning to independent resear
                                  ↓
                          Scientific Impact
 ```
-
----
 
 # Project Quality Checklist
 
