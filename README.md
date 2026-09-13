@@ -251,10 +251,6 @@ MICCAI 2025, [**Best Paper Award**](https://miccai.org/index.php/about-miccai/aw
 # CHI Lab Google Colab
 
 Google Colab provides a convenient cloud-based environment for running CHI Lab notebooks without requiring a full local installation.
-
-### CHI Lab Google Colab
-
-**[Open CHI Lab Google Colab →](https://colab.research.google.com/drive/1G0gwLBB0ukdyIkIkklgy-LOvrFPLJ6l6?usp=sharing)**
 [![Google Colab](https://img.shields.io/badge/Google%20Colab-Open%20CHI%20Lab%20Notebook-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)](https://colab.research.google.com/drive/1G0gwLBB0ukdyIkIkklgy-LOvrFPLJ6l6?usp=sharing)
 
 Recommended use:
