@@ -306,7 +306,6 @@ The Google Document can be used as the central coordination document for:
 | **CHI Lab GitHub Organisation / Repository Non Private for Open Science Members** | | **CHI Lab GitHub Organisation / Repository – Open Science** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGiovanni/R-Super) |
 | **CHI Lab GitHub Organisation / Repository Private-Open Science (Open on Request)** |---|
 | **Literature Repository** |  [![GitHub](https://img.shields.io/github/stars/MrGiovanni/R-Super.svg?style=social)](https://github.com/MrGiovanni/R-Super/stargazers) |
-| **ECR Network** | [![Future Leaders Network](https://img.shields.io/badge/Future%20Leaders-Network-blue?style=for-the-badge)](https://icriste.com/future-leaders/) |
 | **Research Proposals / Project Calls** | Add official link |
 
 | CHI Lab Book | Relevant Content Aligned with the Lab’s Research Directions|
