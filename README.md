@@ -309,7 +309,7 @@ The Google Document can be used as the central coordination document for:
 | **CHI Lab Google Document** | Add official Google Docs link |
 | **Literature Repository** | This repository |
 | **ECR Network** |  [Future Leaders Network](https://icriste.com/future-leaders/)  |
-| **ICRI-STE YouTube** | [ICRI-STE Insights](https://www.youtube.com/@ICRI-STEInsights)  |
+| **ICRI-STE YouTube** | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@ICRI-STEInsights) [ICRI-STE Insights](https://www.youtube.com/@ICRI-STEInsights)  |
 | **ICRI-STE Whatapp Channel** | [ICRI-STE Insights](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)   
 | **Research Proposals / Project Calls/ Book Chapters** | Add official link |
 
