@@ -262,9 +262,6 @@ Recommended use:
 - Reproduce selected literature methods
 - Conduct ECR mini-project experiments
 - Share executable research notebooks
-
-> Replace `YOUR_CHI_LAB_GOOGLE_COLAB_LINK` with the official CHI Lab Colab link.
-
 ---
 
 # CHI Lab Research & Project Google Document
