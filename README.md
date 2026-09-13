@@ -299,8 +299,13 @@ The Google Document can be used as the central coordination document for:
 
 | Resource | Link |
 |:---|:---|
-| **CHI Lab GitHub Organisation / Repository Public** | | **CHI Lab GitHub Organisation / Repository – Open Science** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Pancreatic_Tumor_Segmentation_Reproduction-I.git) |
-| **CHI Lab GitHub Organisation / Repository Private (Unpublished Work)** |---|
+| **CHI Lab GitHub Organisation / Repository Public** | | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Pancreatic_Tumor_Segmentation_Reproduction-I.git) | |--|--|
+| **CHI Lab GitHub Organisation / Repository Private (Unpublished Work)** |--| |--|--|
+
+| Resource | Access |
+|:---|:---|
+| **CHI Lab — Public GitHub Repository** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Pancreatic_Tumor_Segmentation_Reproduction-I.git) |
+| **CHI Lab — Private Repository (Unpublished Work)** | **Private / Restricted Access** |
 
 
 
