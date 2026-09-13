@@ -297,16 +297,11 @@ The Google Document can be used as the central coordination document for:
 | **Research Concept Note** | [![Research Concept Note Template](https://img.shields.io/badge/Research%20Concept%20Note-Template-F39C12?style=for-the-badge&logo=google&logoColor=white)](https://docs.google.com/document/d/1bc9-B7rEsXqSk5xmW-SJpFm8GYLqN-8LLq2sdW6-zBA/edit?usp=sharing)|
 | **Research Proposals / Project Calls** | Add official link |
 
-| Resource | Link |
-|:---|:---|
-| **CHI Lab GitHub Organisation / Repository Public** | | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Pancreatic_Tumor_Segmentation_Reproduction-I.git) | |--|--|
-| **CHI Lab GitHub Organisation / Repository Private (Unpublished Work)** |--| |--|--|
 
-
-| GitHub Repository | Access |
+| CHI Lab GitHub Repositories | Access |
 |:---|:---|
 | **CHI Lab — Public Repository for Reproduction & Mini-Projects** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Pancreatic_Tumor_Segmentation_Reproduction-I.git) |
-| **CHI Lab — Private Repository (Unpublished Original Research Work)** | [![GitHub](https://img.shields.io/badge/GitHub-CHI%20Lab%20Main%20Collaborators-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Project-II.git) |
+| **CHI Lab — Private Repository (Unpublished Original Research Work)** | [![GitHub](https://img.shields.io/badge/GitHub-CHI%20Lab%20Main%20Collaborators-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Project-II.git) | 
 
 ---
 -
