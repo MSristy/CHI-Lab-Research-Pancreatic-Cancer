@@ -305,6 +305,7 @@ The Google Document can be used as the central coordination document for:
 | **Literature Repository** | This repository |
 | **ECR Network** |  [Future Leaders Network](https://icriste.com/future-leaders/)  |
 | **ICRI-STE Insights** | [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/@ICRI-STEInsights)|
+| **ICRI-STE WhatsApp Channel** | [![WhatsApp](https://badges.aleen42.com/src/whatsapp.svg)](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F) |
 | **ICRI-STE Whatapp Channel** | [ICRI-STE Insights](https://whatsapp.com/channel/0029Vb7tRBi3LdQcB3DEYU2F)
 | **Research Proposals / Project Calls** | Add official link |
 
