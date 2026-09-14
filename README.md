@@ -50,32 +50,6 @@ This GitHub repository serves as a central workspace for CHI Lab ECR activities,
 
 ---
 
-# Mini Projects
-
-Mini-projects are organised as **research-oriented computational tasks**, rather than isolated coding exercises.
-
-A typical project should follow:
-
-```text
-Research Question
-       ↓
-Literature Review
-       ↓
-Dataset / Data Source
-       ↓
-Data Preprocessing
-       ↓
-Computational Method
-       ↓
-Experiment
-       ↓
-Evaluation
-       ↓
-Biological / Clinical Interpretation
-       ↓
-Documentation & Reproducibility
-```
-
 ## Suggested Project Structure
 
 Each mini-project should ideally follow a consistent structure:
@@ -230,25 +204,6 @@ A good research repository should allow another researcher to understand:
 
 
 ## Motivation
-| Sites | Literature research papers | GitHub | - | - | - | - | - | - |
-|:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Prof. Dr. Zongwei Zhou](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1912.05074)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2102.04306)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2203.00131)   |[![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGiovanni/PanTS.git)| | | | | | |
-|-| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/html/2604.20981v1)| | | | | | | |
-
-## Please explore more here: 
-
-<b>Learning Segmentation from Radiology Reports</b> <br/>
-[Pedro R. A. S. Bassi](https://scholar.google.com/citations?user=NftgL6gAAAAJ&hl=en), [Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ), [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN), Zheren Zhu, Tianyu Lin, [Sergio Decherchi](https://scholar.google.com/citations?user=T09qQ1IAAAAJ&hl=it), [Andrea Cavalli](https://scholar.google.com/citations?user=4xTOvaMAAAAJ&hl=en), [Kang Wang](https://radiology.ucsf.edu/people/kang-wang), [Yang Yang](https://scholar.google.com/citations?hl=en&user=6XsJUBIAAAAJ), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Zongwei Zhou](https://www.zongweiz.com/)* <br/>
-*Johns Hopkins University* <br/>
-MICCAI 2025, [**Best Paper Award**](https://miccai.org/index.php/about-miccai/awards/best-paper-award-and-young-scientist-award/) (runner-up) <br/>
-<a href='https://www.cs.jhu.edu/~zongwei/publication/bassi2025learning.pdf'><img src='https://img.shields.io/badge/Paper-PDF-purple'></a> <a href='https://www.cs.jhu.edu/~zongwei/poster/bassi2025miccai_rsuper.pdf'><img src='https://img.shields.io/badge/Poster-PDF-blue'></a>
-<a href='https://www.cs.jhu.edu/news/for-ai-tumor-detection-a-picture-isnt-always-worth-a-thousand-words/'><img src='https://img.shields.io/badge/JHU-News-green'></a>
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/7pamG9DDSJw?si=-376z03g832UyTKB)
-<a href='https://youtu.be/r11X39fH-yU?si=ZOBlHMo1CvN9aVzb'><img src='https://img.shields.io/badge/Oral-RSNA-orange'></a>
-
----
-
-## Motivation
 
 Our pancreatic tumour segmentation research is motivated by recent advances in **medical image segmentation, AI-driven radiology, and reproducible open-source research**. The following resources provide key methodological, scientific, and implementation foundations for this work.
 
@@ -285,7 +240,6 @@ Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio D
 - [Yang Yang](https://scholar.google.com/citations?hl=en&user=6XsJUBIAAAAJ)
 - [Alan Yuille](https://www.cs.jhu.edu/~ayuille/)
 - [Zongwei Zhou](https://www.zongweiz.com/)
-
 ---
 
 ### Why This Work Matters
@@ -344,7 +298,7 @@ The Google Document can be used as the central coordination document for:
 
 | CHI Lab GitHub Repositories | Access |
 |:---|:---|
-| **CHI Lab — Public Repository for Reproduction & Mini-Projects** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/Pancreatic_Tumor_Segmentation_Reproduction-I.git) |
+| **CHI Lab — Public Repository foundential knowlege on ML and DL** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didarmurad2019/ICRI-STE-AI-ML-Healthcare.git) |
 | **CHI Lab — Private Repository (Unpublished Original Research Work)** | [![GitHub](https://img.shields.io/badge/GitHub-CHI%20Lab%20Main%20Collaborators-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Project-II.git) | 
 
 ---
