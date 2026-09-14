@@ -229,13 +229,13 @@ A good research repository should allow another researcher to understand:
 > **What was done? Why was it done? How was it done? What was obtained? Can it be reproduced?**
 
 
-## Motivation | Sites | Literature Papers
-| Sites | papers | GitHub | - | - | - | - | - | - |
+## Motivation
+| Sites | Literature research papers | GitHub | - | - | - | - | - | - |
 |:---|:---|:---|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Prof. Dr. Zongwei Zhou](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1912.05074)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2102.04306)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2203.00131)   |[![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGiovanni/PanTS.git)[GitHub](https://github.com/MrGiovanni/PanTS.git)| | | | | | |
+| [Prof. Dr. Zongwei Zhou](https://www.zongweiz.com)| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2507.01291)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/1912.05074)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2102.04306)[![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/abs/2203.00131)   |[![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MrGiovanni/PanTS.git)| | | | | | |
 |-| [![arXiv](https://img.shields.io/badge/arXiv-1809.10486-FF4040.svg)](https://arxiv.org/html/2604.20981v1)| | | | | | | |
 
-## More motivational Google Scholars, Sites, Poster, and Presentation 
+## Please explore more here: 
 
 <b>Learning Segmentation from Radiology Reports</b> <br/>
 [Pedro R. A. S. Bassi](https://scholar.google.com/citations?user=NftgL6gAAAAJ&hl=en), [Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ), [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN), Zheren Zhu, Tianyu Lin, [Sergio Decherchi](https://scholar.google.com/citations?user=T09qQ1IAAAAJ&hl=it), [Andrea Cavalli](https://scholar.google.com/citations?user=4xTOvaMAAAAJ&hl=en), [Kang Wang](https://radiology.ucsf.edu/people/kang-wang), [Yang Yang](https://scholar.google.com/citations?hl=en&user=6XsJUBIAAAAJ), [Alan Yuille](https://www.cs.jhu.edu/~ayuille/), [Zongwei Zhou](https://www.zongweiz.com/)* <br/>
@@ -247,6 +247,50 @@ MICCAI 2025, [**Best Paper Award**](https://miccai.org/index.php/about-miccai/aw
 <a href='https://youtu.be/r11X39fH-yU?si=ZOBlHMo1CvN9aVzb'><img src='https://img.shields.io/badge/Oral-RSNA-orange'></a>
 
 ---
+
+## Motivation
+
+Our pancreatic tumour segmentation research is motivated by recent advances in **medical image segmentation, AI-driven radiology, and reproducible open-source research**. The following resources provide key methodological, scientific, and implementation foundations for this work.
+
+| **Researcher / Resource** | **Research Papers & Open-Source Implementations** |
+|:---|:---|
+| **Prof. Dr. Zongwei Zhou** | [Personal Website](https://www.zongweiz.com) · [PanTS GitHub Repository](https://github.com/MrGiovanni/PanTS) |
+| **Relevant Research Papers** | [Paper 1](https://arxiv.org/abs/2507.01291) · [Paper 2](https://arxiv.org/abs/1912.05074) · [Paper 3](https://arxiv.org/abs/2102.04306) · [Paper 4](https://arxiv.org/abs/2203.00131) · [Paper 5](https://arxiv.org/html/2604.20981v1) |
+
+### Key Reference: Learning Segmentation from Radiology Reports
+
+**Learning Segmentation from Radiology Reports**  
+Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio Decherchi, Andrea Cavalli, Kang Wang, Yang Yang, Alan Yuille, and Zongwei Zhou.  
+
+**Johns Hopkins University** · **MICCAI 2025 — Best Paper Award (Runner-up)**
+
+**Research & Implementation Resources**
+
+[![Paper](https://img.shields.io/badge/Paper-PDF-purple?style=for-the-badge)](https://www.cs.jhu.edu/~zongwei/publication/bassi2025learning.pdf)
+[![Poster](https://img.shields.io/badge/Poster-PDF-blue?style=for-the-badge)](https://www.cs.jhu.edu/~zongwei/poster/bassi2025miccai_rsuper.pdf)
+[![JHU News](https://img.shields.io/badge/JHU-News-green?style=for-the-badge)](https://www.cs.jhu.edu/news/for-ai-tumor-detection-a-picture-isnt-always-worth-a-thousand-words/)
+[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/7pamG9DDSJw?si=-376z03g832UyTKB)
+[![Oral Presentation](https://img.shields.io/badge/Oral-RSNA-orange?style=for-the-badge)](https://youtu.be/r11X39fH-yU?si=ZOBlHMo1CvN9aVzb)
+
+### Authors
+
+- [Pedro R. A. S. Bassi](https://scholar.google.com/citations?user=NftgL6gAAAAJ&hl=en)
+- [Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ)
+- [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN)
+- Zheren Zhu
+- Tianyu Lin
+- [Sergio Decherchi](https://scholar.google.com/citations?user=T09qQ1IAAAAJ&hl=it)
+- [Andrea Cavalli](https://scholar.google.com/citations?user=4xTOvaMAAAAJ&hl=en)
+- [Kang Wang](https://radiology.ucsf.edu/people/kang-wang)
+- [Yang Yang](https://scholar.google.com/citations?hl=en&user=6XsJUBIAAAAJ)
+- [Alan Yuille](https://www.cs.jhu.edu/~ayuille/)
+- [Zongwei Zhou](https://www.zongweiz.com/)
+
+---
+
+### Why This Work Matters
+
+These resources provide a foundation for developing **reproducible pancreatic tumour segmentation pipelines**, combining published medical imaging methods with publicly available implementations. Our work builds upon these foundations while focusing on **reproduction, validation, and further development of AI-based pancreatic tumour segmentation methods**.
 
 # CHI Lab Google Colab
 
