@@ -226,21 +226,6 @@ Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio D
 [![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://youtu.be/7pamG9DDSJw?si=-376z03g832UyTKB)
 [![Oral Presentation](https://img.shields.io/badge/Oral-RSNA-orange?style=for-the-badge)](https://youtu.be/r11X39fH-yU?si=ZOBlHMo1CvN9aVzb)
 
-### Authors
-
-- [Pedro R. A. S. Bassi](https://scholar.google.com/citations?user=NftgL6gAAAAJ&hl=en)
-- [Wenxuan Li](https://scholar.google.com/citations?hl=en&user=tpNZM2YAAAAJ)
-- [Jieneng Chen](https://scholar.google.com/citations?user=yLYj88sAAAAJ&hl=zh-CN)
-- Zheren Zhu
-- Tianyu Lin
-- [Sergio Decherchi](https://scholar.google.com/citations?user=T09qQ1IAAAAJ&hl=it)
-- [Andrea Cavalli](https://scholar.google.com/citations?user=4xTOvaMAAAAJ&hl=en)
-- [Kang Wang](https://radiology.ucsf.edu/people/kang-wang)
-- [Yang Yang](https://scholar.google.com/citations?hl=en&user=6XsJUBIAAAAJ)
-- [Alan Yuille](https://www.cs.jhu.edu/~ayuille/)
-- [Zongwei Zhou](https://www.zongweiz.com/)
----
-
 ### Why This Work Matters
 
 These resources provide a foundation for developing **reproducible pancreatic tumour segmentation pipelines**, combining published medical imaging methods with publicly available implementations. Our work builds upon these foundations while focusing on **reproduction, validation, and further development of AI-based pancreatic tumour segmentation methods**.
@@ -278,7 +263,7 @@ The Google Document can be used as the central coordination document for:
 - Project progress
 - Submission requirements
 
-[![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1L296KH9r9x4m_ycsgwbsrY1YGLbRYoO2iBHorOfB4-k/edit?usp=sharing)
+[![Research Document](https://img.shields.io/badge/CHI%20Lab-Research%20Document-0077B6?style=for-the-badge&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1ZS-7U8J_ZEvcUT_LtzDHRV7wtD4hlo9aQQRnYUAsK20/edit?usp=sharing)
 
 ---
 
