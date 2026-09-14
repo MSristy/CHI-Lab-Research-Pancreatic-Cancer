@@ -202,7 +202,6 @@ A good research repository should allow another researcher to understand:
 
 > **What was done? Why was it done? How was it done? What was obtained? Can it be reproduced?**
 
-
 ## Motivation
 
 Our pancreatic tumour segmentation research is motivated by recent advances in **medical image segmentation, AI-driven radiology, and reproducible open-source research**. The following resources provide key methodological, scientific, and implementation foundations for this work.
@@ -245,6 +244,9 @@ Pedro R. A. S. Bassi, Wenxuan Li, Jieneng Chen, Zheren Zhu, Tianyu Lin, Sergio D
 ### Why This Work Matters
 
 These resources provide a foundation for developing **reproducible pancreatic tumour segmentation pipelines**, combining published medical imaging methods with publicly available implementations. Our work builds upon these foundations while focusing on **reproduction, validation, and further development of AI-based pancreatic tumour segmentation methods**.
+
+## PanTS Reproduction Activities
+Explore the PanTS reproduction activities based on publicly available source code, research resources, and supporting information. The corresponding materials and experiments are organized into the given folders. 
 
 # CHI Lab Google Colab
 
