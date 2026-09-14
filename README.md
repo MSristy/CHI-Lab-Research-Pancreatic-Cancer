@@ -11,7 +11,7 @@
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=MrGiovanni/R-Super&left_color=%2363C7E6&right_color=%23CEE75F)
 
 
-**A structured open repository for learning, experimentation, reproducible mini-projects, literature study, and collaborative research.**
+**A structured open repository for learning, experimentation, reproducible mini-projects, literature study, and collaborative research on Pancreatic Cancer**
 
 </div>
 
