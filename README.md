@@ -296,10 +296,10 @@ The Google Document can be used as the central coordination document for:
 | **Research Proposals / Project Calls** | Add official link |
 
 
-| CHI Lab GitHub Repositories | Access |
+| CHI Lab Repository | Access |
 |:---|:---|
-| **CHI Lab — Public Repository foundential knowlege on ML and DL** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didarmurad2019/ICRI-STE-AI-ML-Healthcare.git) |
-| **CHI Lab — Private Repository (Unpublished Original Research Work)** | [![GitHub](https://img.shields.io/badge/GitHub-CHI%20Lab%20Main%20Collaborators-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Project-II.git) | 
+| **CHI Lab — Public Repository: Foundations and Practical Intuition in Machine Learning & Deep Learning** | [![GitHub](https://img.shields.io/badge/GitHub-Open%20Science-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/didarmurad2019/ICRI-STE-AI-ML-Healthcare.git) |
+| **CHI Lab — Private Repository: Unpublished Original Research & Collaborative Projects** | [![GitHub](https://img.shields.io/badge/GitHub-CHI%20Lab%20Main%20Collaborators-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/partnerships2024/CHI-Lab-Project-II.git) | 
 
 ---
 
